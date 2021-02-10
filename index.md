@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/456bcb3b-ab6a-4e84-93aa-50775b88269f/d9u0mkp-11de0323-3900-4b08-88b1-f00bf110d3c4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDU2YmNiM2ItYWI2YS00ZTg0LTkzYWEtNTA3NzViODgyNjlmXC9kOXUwbWtwLTExZGUwMzIzLTM5MDAtNGIwOC04OGIxLWYwMGJmMTEwZDNjNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QNy_6a6LqsyhbtfKqUtSUWrjDxwlG0OJEWVJXckE-_I)
 
 ### Large image
 
